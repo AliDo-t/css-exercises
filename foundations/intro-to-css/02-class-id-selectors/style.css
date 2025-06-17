@@ -3,8 +3,22 @@
     background-color: lightpink;
     font-family: "Verdana,`DejaVu Sans, sans-serif";
 }
+
 .Odd-number#cooler-class
 {
     font-size: 24px;
+}
+
+#id-2
+{
+    color: blue;
+    font-size:36px;
+
+}
+#id-4
+{
+    color: lightgreen;
+    font-size:24px;
+    font-weight: bold;
 
 }
